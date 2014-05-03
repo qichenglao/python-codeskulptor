@@ -1,4 +1,4 @@
-import simplegui, random, math
+import simplegui, random, math 
 
 class Image:
     def __init__(self, url, size):
